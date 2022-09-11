@@ -1,7 +1,7 @@
 num = 1
 
 if num > 9
-    print "Hello"
+    print "Welcome"
 else
     print "Bye"
 end    
